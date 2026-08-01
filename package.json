@@ -1,0 +1,19 @@
+{
+  "name": "harish-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio of Harish S",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "harish-s",
+    "developer"
+  ],
+  "author": "Harish S",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
